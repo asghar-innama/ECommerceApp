@@ -4,9 +4,13 @@
 This is a React Native mobile application built using Expo. The app fetches product data from the FakeStore API, displays products in a list/grid view, and includes a product details screen with options to add items to cart or wishlist. The app supports navigation across multiple screens and utilizes AsyncStorage to persist cart and wishlist data.
 
 **Deployment Notes**
+
 **Framework**: React Native (Expo)
+
 **Navigation**: React Navigation
+
 **State Persistence**: AsyncStorage
+
 **API Used**: https://fakestoreapi.com/products
 
 **How to Execute the Solution**
